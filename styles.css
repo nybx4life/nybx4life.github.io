@@ -1,0 +1,44 @@
+body{
+	
+}
+
+table{
+	padding: 20 px;
+	border: 3px;
+	border-style: double;
+	
+}
+
+li{
+	margin-left: 10px;
+	
+}
+
+.types{
+	background-color: #9688cc;
+}
+
+#specs{
+		
+		background-color: #e6e6ff;
+}
+
+th{
+	font-family: Times;
+}
+
+td{
+	font-family: Arial;
+}
+
+a:visited{
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	color:green;
+	background-image: url("dot.jpg");
+	text-align: center;
+	
+}
